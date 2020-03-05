@@ -3,9 +3,9 @@ layout: cv
 title: 高橋 右のレジュメ
 ---
 # 高橋 右
-ソフトウェア・エンジニア at チームラボ株式会社
+ソフトウェア・エンジニア/チームラボ株式会社
 
-主な専門領域は，分散システム, 3Dグラフィックス, 言語処理系, Web, デジタル・ファブリケーション
+主な専門領域は，分散システム, 3Dグラフィックス, 言語処理系, Web, デジタル・ファブリケーション．プログラミング歴10年（2020年現在），職歴2年
 <!--<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617-->
 <div id="webaddress">
   <a href="https://supertask.jp"><i class="fas fa-home"></i> supertask.jp</a> -
