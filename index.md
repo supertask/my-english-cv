@@ -2,7 +2,7 @@
 layout: cv
 title: David Whipp's CV
 ---
-# David Whipp
+# 高橋 右
 Associate professor, University of Helsinki
 
 Institute of Seismology, Department of Geosciences and Geography<br/>
