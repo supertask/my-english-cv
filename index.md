@@ -2,14 +2,6 @@
 layout: cv
 title: 高橋 右のレジュメ
 ---
-<!--
-Tasuku Takahashi's Curriculum Vitae in Japanese
-
-Refered
-  - GitHub: https://github.com/davewhipp/markdown-cv/
-  - Website: https://davewhipp.github.io/markdown-cv/
--->
-
 # 高橋 右
 Software Engineer, teamLab,inc
 
