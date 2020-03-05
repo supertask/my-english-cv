@@ -3,7 +3,7 @@ layout: cv
 title: David Whipp's CV
 ---
 # 高橋 右
-Associate professor, University of Helsinki
+Software Engineer, teamLab,inc
 
 Institute of Seismology, Department of Geosciences and Geography<br/>
 P.O. Box 68 (Pietari Kalmin katu 5)<br/>
