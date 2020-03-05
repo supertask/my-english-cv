@@ -42,7 +42,7 @@ title: 高橋 右のレジュメ
 ### 技術書
 [FARMTORY JOURNAL vol.1 - Modular Fashion](https://farmtory.booth.pm/items/1317978)
 
-## カンファレンスの活動
+## カンファレンス
 
 ### プレゼンテーション
 `2017年11月`
