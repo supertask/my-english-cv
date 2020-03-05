@@ -83,6 +83,6 @@ Prusa (3D printer), FABOOL Laser CO2 (Laser cutter)
 
 出身: 日本・京都
 
-住所: 東京墨田区
+住所: 東京都墨田区
 
 <br/>最終更新: 2020年3月<br/><br/>
