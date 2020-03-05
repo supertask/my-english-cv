@@ -3,9 +3,9 @@ layout: cv
 title: 高橋 右のレジュメ
 ---
 # 高橋 右
-ソフトウェア・エンジニア/チームラボ株式会社
+ソフトウェア・エンジニア  チームラボ株式会社
 
-主な専門領域は，分散システム, 3Dグラフィックス, 言語処理系, Web, デジタル・ファブリケーション．プログラミング歴10年（2020年現在），職歴2年
+主な専門領域は，分散システム, 3Dグラフィックス, 言語処理系, Web, デジタル・ファブリケーション．プログラミング歴10年（2020年現在），職歴2年．
 <!--<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617-->
 <div id="webaddress">
   <a href="https://supertask.jp"><i class="fas fa-home"></i> supertask.jp</a> -
@@ -59,16 +59,19 @@ title: 高橋 右のレジュメ
 *[ARISE #02](https://arise2.peatix.com/)* 日本・東京
 
 `2019年8月`
-*[Maker Faire Tokyo 2019](https://makezine.jp/event/mft2019/)* 日本・東京
+*[Maker Faire Tokyo 2019](https://makezine.jp/event/makers-mft2019/m0256/)* 日本・東京
 
 `2019年5月`
-*[Maker Faire Kyoto 2019](https://makezine.jp/event/mfk2019/)* 日本・東京
+*[Maker Faire Kyoto 2019](https://makezine.jp/event/makers-mfk2019/m0028/)* 日本・京都
 
 ## 使い慣れたツール
-- Python, C++, C#, PHP, JS, Java, C, UnitX(own)
-- Unity, Blender, Illustrator, DaVinci Resolve
-- Leap Motion, RealSense D435i, RealSense T265, Structure Sensor
-- Prusa (3D printer), FABOOL Laser CO2 (Laser cutter)
+Python, C++, C#, PHP, JS, Java, C, UnitX(own)
+
+Unity, Blender, Illustrator, DaVinci Resolve
+
+Leap Motion, RealSense D435i, RealSense T265, Structure Sensor
+
+Prusa (3D printer), FABOOL Laser CO2 (Laser cutter)
 
 ## 言語
 日本語: 母国語
