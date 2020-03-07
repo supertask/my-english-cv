@@ -27,11 +27,8 @@ title: 高橋 右のレジュメ
 ## 経験
 `2018年 - 現在`
 **ソフトウェアエンジニア**, *teamLab, inc*, 日本・東京
-
 [Message Pillar](https://www.team-lab.com/pillar/) - スマホ&サイネージアート, [Ceno](https://ceno.jp/) - アパレルECサイト,
-
 [Biccamera](https://play.google.com/store/apps/details?id=com.biccamera.android.mobile&hl=en) - スマホアプリ, すかいらーく・ガスト - タブレットアプリ,
-
 [チームラボCMS](https://www.team-lab.com/teamlabcms) - コア開発, [日本調剤](https://www.nicho.co.jp/) - コーポレートサイト
 
 
