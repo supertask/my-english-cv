@@ -3,7 +3,7 @@ layout: cv
 title: 高橋 右のレジュメ
 ---
 # 高橋 右
-ソフトウェア・エンジニア  チームラボ株式会社
+ソフトウェア・エンジニア, teamLab,inc
 
 主な専門領域は，分散システム, 3Dグラフィックス, 言語処理系, Web, デジタル・ファブリケーション．プログラミング歴10年（2020年現在），職歴2年．
 <!--<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617-->
@@ -27,6 +27,13 @@ title: 高橋 右のレジュメ
 ## 経験
 `2018年 - 現在`
 **ソフトウェアエンジニア**, *teamLab, inc*, 日本・東京
+
+[Message Pillar](https://www.team-lab.com/pillar/) - スマホ&サイネージアート, [Ceno](https://ceno.jp/) - アパレルECサイト,
+
+[Biccamera](https://play.google.com/store/apps/details?id=com.biccamera.android.mobile&hl=en) - スマホアプリ, すかいらーく・ガスト - タブレットアプリ,
+
+[チームラボCMS](https://www.team-lab.com/teamlabcms) - コア開発, [日本調剤](https://www.nicho.co.jp/) - コーポレートサイト
+
 
 `2017年1月 - 2017年3月`
 **ソフトウェアエンジニア・インターン**, *CO-WELL ASIA*, ベトナム・ハノイ
