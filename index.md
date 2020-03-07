@@ -9,20 +9,20 @@ title: 高橋 右のレジュメ
 <!--<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617-->
 <div id="webaddress">
   <a href="https://supertask.jp"><i class="fas fa-home"></i> supertask.jp</a> -
-  <a href="https://github.com/supertask"><i class="fab fa-github"></i> GitHub</a> - 
-  <a href="https://medium.com/@pythor"><i class="fab fa-medium"></i> Medium</a> - 
+  <a href="https://github.com/supertask"><i class="fab fa-github"></i> GitHub</a> -
+  <a href="https://medium.com/@pythor"><i class="fab fa-medium"></i> Medium</a> -
   <a href="https://dblp.org/pers/hd/t/Takahashi:Tasuku"><i class="fas fa-university"></i> Research(dblp)</a><br />
   <a href="https://www.youtube.com/channel/UCM7uAAwOleF5AtsEe3x9Qzg"><i class="fab fa-youtube"></i> YouTube</a> -
-  <a href=" https://www.linkedin.com/in/supertask/"><i class="fab fa-linkedin"> LinkedIn</i></a><br />
+  <a href="https://www.linkedin.com/in/supertask/"><i class="fab fa-linkedin"></i> LinkedIn</a><br />
 </div>
 
 ## 学歴
 
 `2016年-2018年`
-**修士, 先端情報学研究科**, *京都産業大学 大学院* 
+**修士, 先端情報学研究科**, *京都産業大学 大学院*
 
 `2011年-2015年`
-**学士, コンピュータ理工学部**, *京都産業大学* 
+**学士, コンピュータ理工学部**, *京都産業大学*
 
 ## 経験
 `2018年 - 現在`
