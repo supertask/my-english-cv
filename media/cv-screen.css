@@ -162,7 +162,6 @@ a:hover {
 }
 
 #webaddress {
-    display: block;
     margin-top: 1em;
     position: relative;
     left: 25%;
@@ -175,11 +174,16 @@ a:hover {
 }
 
 #webaddress_pdf {
-    display: none;
 }
 #webaddress_pdf a {
-    display: none;
+    display: block;
     text-decoration: none;
+}
+.only_show_on_pdf {
+    display: none;
+}
+.only_show_on_web {
+    display: block;
 }
 
 em {

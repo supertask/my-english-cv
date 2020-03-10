@@ -180,16 +180,13 @@ a:hover {
 
 
 #webaddress {
-    display: none;
 }
 
 #webaddress a {
-    display: none;
     /*text-decoration: none;*/
 }
 
 #webaddress_pdf {
-    display: block;
     margin-top: 1em;
     position: relative;
     left: 25%;
@@ -202,6 +199,12 @@ a:hover {
 }
 #webaddress_pdf a[href]:after {
     content: " (" attr(href) ")";
+}
+.only_show_on_pdf {
+    display: block;
+}
+.only_show_on_web {
+    display: none;
 }
 
 em {
