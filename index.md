@@ -55,7 +55,7 @@ title: 高橋 右のレジュメ
 ### 研究
 [Tasuku Takahashi, Kengo Imae, Naohiro Hayashibara: Conflict-free Multi-user Collaborative Editing System for 3D Models. CISIS 2018: 269-279](https://link.springer.com/chapter/10.1007/978-3-319-93659-8_24)
 
-[Tasuku Takahashi, Kengo Imae, Naohiro Hayashibara: Towards a Collaborative Editing System on 3D Space. BWCCA 2017: 648-657](https://link.springer.com/chapter/10.1007/978-3-319-93659-8_24)
+[Tasuku Takahashi, Kengo Imae, Naohiro Hayashibara: Towards a Collaborative Editing System on 3D Space. BWCCA 2017: 648-657](https://link.springer.com/chapter/10.1007/978-3-319-69811-3_58)
 
 
 ### 技術書
