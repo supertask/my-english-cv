@@ -10,10 +10,19 @@ title: 高橋 右のレジュメ
 <div id="webaddress">
   <a href="https://supertask.jp"><i class="fas fa-home"></i> supertask.jp</a> -
   <a href="https://github.com/supertask"><i class="fab fa-github"></i> GitHub</a> -
-  <a href="https://medium.com/@pythor"><i class="fab fa-medium"></i> Medium</a> -
-  <a href="https://dblp.org/pers/hd/t/Takahashi:Tasuku"><i class="fas fa-university"></i> Research(dblp)</a><br />
-  <a href="https://www.youtube.com/channel/UCM7uAAwOleF5AtsEe3x9Qzg"><i class="fab fa-youtube"></i> YouTube</a> -
-  <a href="https://www.linkedin.com/in/supertask/"><i class="fab fa-linkedin"></i> LinkedIn</a><br />
+  <a href="https://medium.com/@pythor"><i class="fab fa-medium"></i> Medium</a><br />
+  <a href="https://dblp.org/pers/hd/t/Takahashi:Tasuku"><i class="fas fa-university"></i> Research</a> -
+  <a href="https://www.youtube.com/channel/UCM7uAAwOleF5AtsEe3x9Qzg"><i class="fab fa-youtube"></i> YouTube</a>
+  <!--<a href="https://www.linkedin.com/in/supertask/"><i class="fab fa-linkedin"></i> LinkedIn</a><br />-->
+</div>
+
+<div id="webaddress_pdf">
+  <a href="https://supertask.jp"><i class="fas fa-home"></i> supertask.jp</a>
+  <a href="https://github.com/supertask"><i class="fab fa-github"></i> GitHub</a>
+  <a href="https://medium.com/@pythor"><i class="fab fa-medium"></i> Medium</a>
+  <a href="https://dblp.org/pers/hd/t/Takahashi:Tasuku"><i class="fas fa-university"></i> Research</a>
+  <a href="https://www.youtube.com/channel/UCM7uAAwOleF5AtsEe3x9Qzg"><i class="fab fa-youtube"></i> YouTube</a>
+  <!--<a href="https://www.linkedin.com/in/supertask/"><i class="fab fa-linkedin"></i> LinkedIn</a><br />-->
 </div>
 
 ## 学歴
@@ -27,9 +36,12 @@ title: 高橋 右のレジュメ
 ## 経験
 `2018年 - 現在`
 **ソフトウェアエンジニア**, *teamLab, inc*, 日本・東京
+
+<!--
 - [Message Pillar](https://www.team-lab.com/pillar/) - スマホ&サイネージアート, [Ceno](https://ceno.jp/) - アパレルECサイト,
 - [Biccamera](https://play.google.com/store/apps/details?id=com.biccamera.android.mobile&hl=en) - スマホアプリ, すかいらーく・ガスト - タブレットアプリ,
 - [チームラボCMS](https://www.team-lab.com/teamlabcms) - コア開発, [日本調剤](https://www.nicho.co.jp/) - コーポレートサイト
+-->
 
 
 `2017年1月 - 2017年3月`
@@ -41,7 +53,10 @@ title: 高橋 右のレジュメ
 
 ## 出版
 ### 研究
-[dblpを参照](https://dblp.org/pers/hd/t/Takahashi:Tasuku)
+[Tasuku Takahashi, Kengo Imae, Naohiro Hayashibara: Conflict-free Multi-user Collaborative Editing System for 3D Models. CISIS 2018: 269-279](https://link.springer.com/chapter/10.1007/978-3-319-93659-8_24)
+
+[Tasuku Takahashi, Kengo Imae, Naohiro Hayashibara: Towards a Collaborative Editing System on 3D Space. BWCCA 2017: 648-657](https://link.springer.com/chapter/10.1007/978-3-319-93659-8_24)
+
 
 ### 技術書
 [FARMTORY JOURNAL vol.1 - Modular Fashion](https://farmtory.booth.pm/items/1317978)
@@ -89,4 +104,7 @@ Prusa (3D printer), FABOOL Laser CO2 (Laser cutter)
 
 住所: 東京都墨田区
 
-<br/>最終更新: 2020年3月<br/><br/>
+## Web版CVのURL
+https://supertask.github.io/my-japanese-cv/
+
+
