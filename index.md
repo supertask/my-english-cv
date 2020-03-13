@@ -46,7 +46,7 @@ Software Engineer, teamLab,inc
 
 ## Publication
 ### Research
-[My researches are on dblp] (https://dblp.org/pers/hd/t/Takahashi:Tasuku)
+[My researches are on dblp](https://dblp.org/pers/hd/t/Takahashi:Tasuku)
 
 ### Technical book
 [FARMTORY JOURNAL vol.1 - Modular Fashion](https://farmtory.booth.pm/items/1317978)
@@ -85,7 +85,7 @@ Prusa (3D printer), FABOOL Laser CO2 (Laser cutter)
 ## Language
 Japanese: Native
 
-English: Conversation
+English: Daily conversation
 
 ## Personal
 Nov 27 1992
