@@ -54,10 +54,10 @@ Software Engineer, teamLab,inc
 ## Conference
 
 ### Presentation
-`2017年11月`
+`2017 Nov`
 *[BWCCA-2017](http://voyager.ce.fit.ac.jp/conf/bwcca/2017/)*, Barcelona, Spain
 
-`2019年1月`
+`2019 Jan`
 *[Tokyo Project North Star Meetup](https://vrtokyo.connpass.com/event/111295/)* Tokyo, Japan
 
 ### Exhibition
