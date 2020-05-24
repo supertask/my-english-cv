@@ -5,6 +5,7 @@ title: Tasuku Takahashi's cv
 
 # Tasuku Takahashi
 Software Engineer, teamLab,inc
+My specialty is a distributed system, a language processor, Web, a digital fabrication. 10 years programming experience , 2 years work experience
 
 <!--<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617-->
 <div id="webaddress" class="only_show_on_web">
@@ -12,8 +13,8 @@ Software Engineer, teamLab,inc
   <a href="https://github.com/supertask"><i class="fab fa-github"></i> GitHub</a> -
   <a href="https://medium.com/@pythor"><i class="fab fa-medium"></i> Medium</a><br />
   <a href="https://dblp.org/pers/hd/t/Takahashi:Tasuku"><i class="fas fa-university"></i> Research</a> -
-  <a href="https://www.youtube.com/channel/UCM7uAAwOleF5AtsEe3x9Qzg"><i class="fab fa-youtube"></i> YouTube</a>
-  <!--<a href="https://www.linkedin.com/in/supertask/"><i class="fab fa-linkedin"></i> LinkedIn</a><br />-->
+  <!--<a href="https://www.youtube.com/channel/UCM7uAAwOleF5AtsEe3x9Qzg"><i class="fab fa-youtube"></i> YouTube</a>-->
+  <a href="https://www.linkedin.com/in/supertask/"><i class="fab fa-linkedin"></i> LinkedIn</a><br />
 </div>
 
 <div id="webaddress_pdf" class="only_show_on_pdf">
@@ -21,8 +22,8 @@ Software Engineer, teamLab,inc
   <a href="https://github.com/supertask"><i class="fab fa-github"></i> GitHub</a>
   <a href="https://medium.com/@pythor"><i class="fab fa-medium"></i> Medium</a>
   <a href="https://dblp.org/pers/hd/t/Takahashi:Tasuku"><i class="fas fa-university"></i> Research</a>
-  <a href="https://www.youtube.com/channel/UCM7uAAwOleF5AtsEe3x9Qzg"><i class="fab fa-youtube"></i> YouTube</a>
-  <!--<a href="https://www.linkedin.com/in/supertask/"><i class="fab fa-linkedin"></i> LinkedIn</a><br />-->
+  <!--<a href="https://www.youtube.com/channel/UCM7uAAwOleF5AtsEe3x9Qzg"><i class="fab fa-youtube"></i> YouTube</a>-->
+  <a href="https://www.linkedin.com/in/supertask/"><i class="fab fa-linkedin"></i> LinkedIn</a><br />
 </div>
 
 ## Education
