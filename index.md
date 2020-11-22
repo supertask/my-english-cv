@@ -1,70 +1,81 @@
 ---
 layout: cv
-title: 高橋 右のレジュメ
+title: Tasuku Takahashi's cv
 ---
-# 高橋 右
-ソフトウェア・エンジニア  チームラボ株式会社
 
-主な専門領域は，分散システム, 3Dグラフィックス, 言語処理系, Web, デジタル・ファブリケーション．プログラミング歴10年（2020年現在），職歴2年．
+# Tasuku Takahashi
+Software Engineer, teamLab,inc
+My specialty is real-time 3DCG, 3D modeling, a distributed system, a language processor, web, and a digital fabrication. 11 years programming experience , three years work experience
+
+
 <!--<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617-->
-<div id="webaddress">
+<div id="webaddress" class="only_show_on_web">
   <a href="https://supertask.jp"><i class="fas fa-home"></i> supertask.jp</a> -
-  <a href="https://github.com/supertask"><i class="fab fa-github"></i> GitHub</a> - 
-  <a href="https://medium.com/@pythor"><i class="fab fa-medium"></i> Medium</a> - 
-  <a href="https://dblp.org/pers/hd/t/Takahashi:Tasuku"><i class="fas fa-university"></i> Research(dblp)</a><br />
-  <a href="https://www.youtube.com/channel/UCM7uAAwOleF5AtsEe3x9Qzg"><i class="fab fa-youtube"></i> YouTube</a> -
-  <a href=" https://www.linkedin.com/in/supertask/"><i class="fab fa-linkedin"> LinkedIn</i></a><br />
+  <a href="https://github.com/supertask"><i class="fab fa-github"></i> GitHub</a> -
+  <!--<a href="https://medium.com/@pythor"><i class="fab fa-medium"></i> Medium</a><br />-->
+  <a href="https://dblp.org/pers/hd/t/Takahashi:Tasuku"><i class="fas fa-university"></i> Research</a> -
+  <!--<a href="https://www.youtube.com/channel/UCM7uAAwOleF5AtsEe3x9Qzg"><i class="fab fa-youtube"></i> YouTube</a>-->
+  <a href="https://www.linkedin.com/in/supertask/"><i class="fab fa-linkedin"></i> LinkedIn</a><br />
 </div>
 
-## 学歴
+<div id="webaddress_pdf" class="only_show_on_pdf">
+  <a href="https://supertask.jp"><i class="fas fa-home"></i> supertask.jp</a>
+  <a href="https://github.com/supertask"><i class="fab fa-github"></i> GitHub</a>
+  <!--<a href="https://medium.com/@pythor"><i class="fab fa-medium"></i> Medium</a>-->
+  <a href="https://dblp.org/pers/hd/t/Takahashi:Tasuku"><i class="fas fa-university"></i> Research</a>
+  <!--<a href="https://www.youtube.com/channel/UCM7uAAwOleF5AtsEe3x9Qzg"><i class="fab fa-youtube"></i> YouTube</a>-->
+  <a href="https://www.linkedin.com/in/supertask/"><i class="fab fa-linkedin"></i> LinkedIn</a><br />
+</div>
 
-`2016年-2018年`
-**修士, 先端情報学研究科**, *京都産業大学 大学院* 
+## Education
 
-`2011年-2015年`
-**学士, コンピュータ理工学部**, *京都産業大学* 
+`2016 - 2018`
+**Master, Computer Science**, *Kyoto Sangyo Univ*
 
-## 経験
-`2018年 - 現在`
-**ソフトウェアエンジニア**, *teamLab, inc*, 日本・東京
+`2011 - 2015`
+**Bachelor, Computer Science**, *Kyoto Sangyo Univ*
 
-`2017年1月 - 2017年3月`
-**ソフトウェアエンジニア・インターン**, *CO-WELL ASIA*, ベトナム・ハノイ
+## Experience
+`2018 - Present`
+**Software Engineer**, *teamLab, inc*, Tokyo Japan
 
-`2016年-2017年`
-**OSSコミッター**, *Code for America*, アメリカ・サンフランシスコ
+`2017 Jan - 2017 Mar`
+**Software Engineer Intern**, *CO-WELL ASIA*, Hanoi, Vietnam
+
+`2016 - 2017`
+**OSS commiter**, *Code for America*, San Francisco, US
 
 
-## 出版
-### 研究
-[dblpを参照](https://dblp.org/pers/hd/t/Takahashi:Tasuku)
+## Publication
+### Research
+[My researches are on dblp](https://dblp.org/pers/hd/t/Takahashi:Tasuku)
 
-### 技術書
+### Technical book
 [FARMTORY JOURNAL vol.1 - Modular Fashion](https://farmtory.booth.pm/items/1317978)
 
-## カンファレンス
+## Conference
 
-### プレゼンテーション
-`2017年11月`
-*[BWCCA-2017](http://voyager.ce.fit.ac.jp/conf/bwcca/2017/)*, スペイン・バルセロナ
+### Presentation
+`Nov 2017`
+*[BWCCA-2017](http://voyager.ce.fit.ac.jp/conf/bwcca/2017/)*, Barcelona, Spain
 
-`2019年1月`
-*[Tokyo Project North Star Meetup](https://vrtokyo.connpass.com/event/111295/)* 日本・東京
+`Jan 2019`
+*[Tokyo Project North Star Meetup](https://vrtokyo.connpass.com/event/111295/)* Tokyo, Japan
 
-### 展示
-`2019年11月`
-*[xR Tech Tokyo #18](https://vrtokyo.connpass.com/event/151017/)* 日本・東京
+### Exhibition
+`Nov 2019`
+*[xR Tech Tokyo #18](https://vrtokyo.connpass.com/event/151017/)* Tokyo, Japan
 
-`2019年11月`
-*[ARISE #02](https://arise2.peatix.com/)* 日本・東京
+`Nov 2019`
+*[ARISE #02](https://arise2.peatix.com/)* Tokyo, Japan
 
-`2019年8月`
-*[Maker Faire Tokyo 2019](https://makezine.jp/event/makers-mft2019/m0256/)* 日本・東京
+`Aug 2018`
+*[Maker Faire Tokyo 2019](https://makezine.jp/event/makers-mft2019/m0256/)* Tokyo, Japan
 
-`2019年5月`
-*[Maker Faire Kyoto 2019](https://makezine.jp/event/makers-mfk2019/m0028/)* 日本・京都
+`May 2019`
+*[Maker Faire Kyoto 2019](https://makezine.jp/event/makers-mfk2019/m0028/)* Tokyo, Japan
 
-## 使い慣れたツール
+## Familiar tools
 Python, C++, C#, PHP, JS, Java, C, UnitX(own)
 
 Unity, Blender, Illustrator, DaVinci Resolve
@@ -73,16 +84,18 @@ Leap Motion, RealSense D435i, RealSense T265, Structure Sensor
 
 Prusa (3D printer), FABOOL Laser CO2 (Laser cutter)
 
-## 言語
-日本語: 母国語
+## Language
+Japanese: Native
 
-英語: 日常会話レベル
+English: Daily conversation
 
-## 個人情報
-誕生日1992年11月27日
+## Personal
+Nov 27 1992
 
-出身: 日本・京都
+Born: Kyoto, Japan
 
-住所: 東京都墨田区
+Address: Sumida Tokyo
 
-<br/>最終更新: 2020年3月<br/><br/>
+<!--<br/><span class="only_show_on_pdf">職歴詳細は次のページ</span>-->
+
+Last updated: May 2020<br/><br/>
