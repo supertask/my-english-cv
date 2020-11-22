@@ -5,7 +5,8 @@ title: Tasuku Takahashi's cv
 
 # Tasuku Takahashi
 Software Engineer, teamLab,inc
-My specialty is a distributed system, a language processor, Web, a digital fabrication. 10 years programming experience , 2 years work experience
+My specialty is real-time 3DCG, 3D modeling, a distributed system, a language processor, web, and a digital fabrication. 11 years programming experience , three years work experience
+
 
 <!--<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617-->
 <div id="webaddress" class="only_show_on_web">
