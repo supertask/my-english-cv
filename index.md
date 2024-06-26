@@ -42,9 +42,6 @@ My specialty is real-time 3DCG, 3D modeling, a distributed system, a language pr
 `2018 - 2021 May`
 **Software Engineer**, *teamLab, inc*, Tokyo Japan
 
-`2018 - Present`
-**Software Engineer**, *teamLab, inc*, Tokyo Japan
-
 `2017 Jan - 2017 Mar`
 **Software Engineer Intern**, *CO-WELL ASIA*, Hanoi, Vietnam
 
