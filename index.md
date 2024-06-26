@@ -4,8 +4,8 @@ title: Tasuku Takahashi's cv
 ---
 
 # Tasuku Takahashi
-Software Engineer, teamLab,inc
-My specialty is real-time 3DCG, 3D modeling, a distributed system, a language processor, web, and a digital fabrication. 11 years programming experience , three years work experience
+Interactive Art Engineer, teamLab,inc. An Engineer who makes anything
+My specialty is real-time 3DCG, 3D modeling, a distributed system, a language processor, web, and a digital fabrication. 14 years programming experience , six years work experience
 
 
 <!--<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a> - +358 (0)2 941 51617-->
@@ -36,6 +36,12 @@ My specialty is real-time 3DCG, 3D modeling, a distributed system, a language pr
 **Bachelor, Computer Science**, *Kyoto Sangyo Univ*
 
 ## Experience
+`2021 Mar - Present`
+**Interactive Art Engineer**, *teamLab, inc*, Tokyo Japan
+
+`2018 - 2021 May`
+**Software Engineer**, *teamLab, inc*, Tokyo Japan
+
 `2018 - Present`
 **Software Engineer**, *teamLab, inc*, Tokyo Japan
 
