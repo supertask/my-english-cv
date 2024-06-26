@@ -36,7 +36,10 @@ My specialty is real-time 3DCG, 3D modeling, a distributed system, a language pr
 **Bachelor, Computer Science**, *Kyoto Sangyo Univ*
 
 ## Experience
-`2018 - Present`
+`2021 Mar - Present`
+**Interactive Art Engineer**, *teamLab, inc*, Tokyo Japan
+
+`2018 - 2021 May`
 **Software Engineer**, *teamLab, inc*, Tokyo Japan
 
 `2018 - Present`
