@@ -39,7 +39,10 @@ My specialty is real-time 3DCG, 3D modeling, a distributed system, a language pr
 `2021 Mar - Present`
 **Interactive Art Engineer**, *teamLab, inc*, Tokyo Japan
 
-`2018 - 2021 May`
+`2018 Oct - 2021 Feb`
+**Lead Software Engineer**, *teamLab, inc*, Tokyo Japan
+
+`2018 Apr - 2018 Sep`
 **Software Engineer**, *teamLab, inc*, Tokyo Japan
 
 `2017 Jan - 2017 Mar`
