@@ -4,7 +4,7 @@ title: Tasuku Takahashi's cv
 ---
 
 # Tasuku Takahashi
-Interactive Art Engineer, teamLab,inc. An Engineer who makes anything
+Interactive Art Engineer, teamLab,inc. An Engineer who makes anything. My goal in life is to create the Sci-Fi world.
 My specialty is real-time 3DCG, 3D modeling, a distributed system, a language processor, web, and a digital fabrication. 14 years programming experience , six years work experience
 
 
